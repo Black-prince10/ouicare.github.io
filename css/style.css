@@ -323,7 +323,12 @@ a:focus {
 
 .about_section .row .col-md-6 {
   padding: 0;
+  
 }
+.contact_section .row .col-md-6 {
+  margin-left: 24%;
+}
+
 
 .about_section .img-box img {
   width: 100%;
@@ -488,10 +493,10 @@ a:focus {
   outline: none;
   border: none;
   border-radius: 30px;
-  border: 1px solid #fa0909;
+  border: 1px solid #252525;
   color: #fff;
   font-weight: bold;
-  background-color: #fa0909;
+  background-color: #252525;
 }
 
 .contact_section .map_section {
